@@ -66,6 +66,20 @@ Project screenshots including the lab architecture, attack simulation,
 Splunk analysis, dashboard monitoring, and alert configuration are
 available in the **attack-simulation** folder.
 
+## Full Project Report
+
+The complete project report with detailed setup steps, screenshots,
+and analysis is available here:
+
+Google Drive Report:
+## Full Project Report
+
+The complete project report with detailed setup steps, screenshots,
+and analysis is available here:
+
+Google Drive Report:
+ (https://drive.google.com/file/d/1FHiBqEEXKUfOOd2Oaj9w8sWy3wXR71He/view?usp=drive_link)
+
 ## Author
 
 Akash Sharma  
