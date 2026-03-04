@@ -60,6 +60,12 @@ A scheduled alert was also configured to detect abnormal spikes in failed login 
 
 ---
 
+## Screenshots
+
+Project screenshots including the lab architecture, attack simulation,
+Splunk analysis, dashboard monitoring, and alert configuration are
+available in the **attack-simulation** folder.
+
 ## Author
 
 Akash Sharma  
