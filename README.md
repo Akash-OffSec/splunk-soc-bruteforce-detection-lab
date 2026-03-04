@@ -59,6 +59,11 @@ A scheduled alert was also configured to detect abnormal spikes in failed login 
 - Hydra  
 
 ---
+## SOC Investigation
+
+When the alert triggered, the analyst verified
+authentication logs and identified the attacker IP.
+The spike in failed SSH logins confirmed brute-force activity.
 
 ## Screenshots
 
@@ -66,12 +71,6 @@ Project screenshots including the lab architecture, attack simulation,
 Splunk analysis, dashboard monitoring, and alert configuration are
 available in the **attack-simulation** folder.
 
-## Full Project Report
-
-The complete project report with detailed setup steps, screenshots,
-and analysis is available here:
-
-Google Drive Report:
 ## Full Project Report
 
 The complete project report with detailed setup steps, screenshots,
